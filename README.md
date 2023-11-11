@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
-    <td>知識庫系統</td>
+    <td><a href="https://www.youtube.com/watch?v=HG46xxF314E">看我</a></td>
     <td><a href="">資料視覺化</a></td>
     <td>張O庭</td>
   </tr>
