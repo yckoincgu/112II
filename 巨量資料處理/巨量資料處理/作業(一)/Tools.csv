@@ -1,0 +1,32 @@
+﻿上架編碼@_majorKey,分類@_majorType,清單項目(_showTextItem),單價,分類編碼,公告檔案(_showMapItem),deleteKey,userRoleKey,systemTimeKey,systemKey
+begin,雲端GitHub註冊,,,,,,,,
+A01,雲端GitHub註冊,GitHub註冊,,,https://github.com/,0,0,0,A01
+A02,GitHub初步使用_iframe,GitHub安裝手冊,260,C01,pdf/githubGuide.pdf,0,0,0,A02
+end,雲端GitHub註冊,,,,,,,,
+begin,Local Git 安裝,,,,,,,,
+A02,Local GitHub安裝,Visual Studio Code下載,,,https://code.visualstudio.com/,0,0,0,A02
+A05,Local GitHub安裝,Git下載,,,https://git-scm.com/downloads,0,0,0,A05
+A03,Local GitHub安裝,GitHub Desktop下載,,,https://desktop.github.com/,0,0,0,A03
+end,,,,,,,,,
+begin,雲端 GitHub操作,,,,,,,,
+A13,雲端 GitHub操作_iframe,登入雲端 Github (1),260,C01,image/2.jpg,0,0,0,A13
+A16,雲端 GitHub操作_iframe,登入雲端帳號 (2),260,C01,image/5.jpg,0,0,0,A16
+A14,雲端 GitHub操作_iframe,設定,260,C01,image/3.jpg,0,0,0,A14
+A17,雲端 GitHub操作_iframe,開起雲端帳號,260,C01,image/6.jpg,0,0,0,A17
+end,雲端 GitHub操作,,,,,,,,
+begin,local Git操作說明,,,,,,,,
+A21,local Git操作說明,Git簡介,260,C01,https://www.maxlist.xyz/2018/11/02/git_tutorial/,0,0,0,A21
+A22,local Git操作說明,Git Book(英),260,C01,https://git-scm.com/book/en/v2,0,0,0,A22
+A27,local Git操作說明,Git Book(中),260,C01,https://git-scm.com/book/zh-tw/v2/Git-%E5%9F%BA%E7%A4%8E-%E8%88%87%E9%81%A0%E7%AB%AF%E5%8D%94%E5%90%8C%E5%B7%A5%E4%BD%9C,0,0,0,A27
+A23,local Git操作說明,GitHub DeskTop簡介(中),260,C01,https://glints.com/tw/blog/github-tutorial/#2_Git%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E5%92%8CGitHub%E6%9C%89%E4%BB%80%E9%BA%BC%E5%B7%AE%E5%88%A5%EF%BC%9F,0,0,0,A23
+A25,local Git操作說明,GitHub DeskTop簡介(英Ko),260,C01,https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md,0,0,0,A25
+A26,local Git操作說明,GitHub DeskTop簡介(英Simpli),260,C01,https://www.simplilearn.com/how-to-use-github-desktop-tutorial-article,0,0,0,A26
+A24,local Git操作說明,Visual Studio Code 簡介,260,C01,https://ithelp.ithome.com.tw/articles/10265203,0,0,0,A24
+end,local Git操作說明,,,,,,,,
+begin,雲端GitHubClass,,,,,,,,
+A01,雲端GitHubClass,GitHub Class 註冊,,,https://classroom.github.com/classrooms,0,0,0,A01
+A02,雲端GitHubClass,GitHub Class 使用手冊,260,C01,pdf/githubGuide.pdf,0,0,0,A02
+end,雲端GitHubClass,,,,,,,,
+begin,chatGPT,,,,,,,,
+A31,chatGPT,chatGPT,260,C01,https://chat.openai.com/,0,0,0,A31
+end,chatGPT,,,,,,,,
