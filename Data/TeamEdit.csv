@@ -1,0 +1,11 @@
+﻿標號@_majorKey,types@_majorType@,actionName@_actionName@,parameters,actionProgram@_actionProgram@,file@_targetFile@,_sys_deleteKey,_sys_userRoleKey,_sys_timeKey,_sys_recordKey
+begin,學員帳號,,,,,,,,
+menu1,學員帳號,瀏覽,none,B_userTableHtml_dbRole,Person.csv,0,0,0,menu1
+menu4,學員帳號,編輯,none,B_updateRecordHtml_dbRole,Person.csv,0,0,0,menu4
+end,學員帳號,,,,,,,,
+begin,學員帳號_All,,,,,,,,
+menu1_all,學員帳號_All,瀏覽,none,B_userTableHtml_dbRole,Person.csv,0,0,0,menu1_all
+menu4_all,學員帳號_All,編輯,none,B_updateRecordHtml_dbRole,Person.csv,0,0,0,menu4_all
+menu2_All,學員帳號_All,新增,none,B_addNewRecordHtml_PlainFile_dbRole,Person.csv,0,0,0,menu2_All
+menu3_All,學員帳號_All,刪除,none,B_deleteRecordHtml_dbRole,Person.csv,0,0,0,menu3_All
+end,學員帳號_All,,,,,,,,
